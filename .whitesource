@@ -1,5 +1,6 @@
 
 {
+
   "scanSettings": {
     "baseBranches": ["main","branch"]
   },
@@ -10,6 +11,7 @@
   "issueSettings": {
     "minSeverityLevel": "LOW"
   }
+  
 }
 
 
